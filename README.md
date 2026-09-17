@@ -22,55 +22,6 @@ Software Engineer (Data & AI) @ Debut Labs · Prev. Dell Technologies (x2) · CS
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔹 Project One Name</h3>
-      One or two sentences on what it does and why it's interesting — the "hook" line, like your friend's "market-data feed broken on purpose" line.
-      <br/><br/>
-      <a href="https://github.com/YOUR-USERNAME/project-one">Repo</a> ·
-      <a href="https://your-live-demo-link.com">Live Demo</a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-    </td>
-    <td width="50%">
-      <h3>🔹 Project Two Name</h3>
-      One or two sentences on what it does and why it's interesting.
-      <br/><br/>
-      <a href="https://github.com/YOUR-USERNAME/project-two">Repo</a> ·
-      <a href="https://your-live-demo-link.com">Live Demo</a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔹 Project Three Name</h3>
-      One or two sentences on what it does and why it's interesting.
-      <br/><br/>
-      <a href="https://github.com/YOUR-USERNAME/project-three">Repo</a> ·
-      <a href="https://your-live-demo-link.com">Live Demo</a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-    </td>
-    <td width="50%">
-      <h3>🔹 Project Four Name</h3>
-      One or two sentences on what it does and why it's interesting.
-      <br/><br/>
-      <a href="https://github.com/YOUR-USERNAME/project-four">Repo</a> ·
-      <a href="https://your-live-demo-link.com">Live Demo</a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ Technologies & Tools
 
 **Languages**
@@ -101,19 +52,6 @@ Software Engineer (Data & AI) @ Debut Labs · Prev. Dell Technologies (x2) · CS
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight"/>
-</p>
 
 ---
 
